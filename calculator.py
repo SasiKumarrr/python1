@@ -15,4 +15,4 @@ elif value == 3:
 elif value == 4:
     print("The answer is",a/b)
 else:
-    print("Enter between 1 to 5")
+    print("Enter number between 1 to 5")
